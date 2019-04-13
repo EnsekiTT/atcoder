@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+#include <algorithm>
+using namespace std;
+int main()
+{
+    int R, G;
+    cin >> R;
+    cin >> G;
+
+    cout << 2*G-R << endl;
+
+
+    return 0;
+}

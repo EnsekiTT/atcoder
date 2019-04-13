@@ -1,0 +1,12 @@
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+int main()
+{
+  string S;
+  cin >> S;
+
+  cout << S << "pp" << endl;
+  return 0;
+}
